@@ -1,0 +1,2 @@
+# MyAmazingGallery
+ Awesome photo gallery
