@@ -1,0 +1,4 @@
+# MyAmazingGallery
+.\main.go:9:16: not enough arguments in call to w.Header().Set
+	have (string)
+	want (string, string)
